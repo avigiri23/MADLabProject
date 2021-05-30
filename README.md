@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+NOTE: build folder not included, relevant code in /assets, /lib and pubspec.yaml file
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
